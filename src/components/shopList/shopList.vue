@@ -116,7 +116,7 @@
                   3.2
                 </div>
                 <div class="order_section">
-                  月售106单
+                  月售1061单
                 </div>
               </section>
               <section class="shop_rating_order_right">
